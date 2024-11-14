@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMoneda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Moneda xsi:type="PesoArgentino">
+    <Codigo>ARS</Codigo>
+    <Simbolo>$</Simbolo>
+    <Cantidad>45000</Cantidad>
+  </Moneda>
+  <Moneda xsi:type="Dolar">
+    <Codigo>USD</Codigo>
+    <Simbolo>$</Simbolo>
+    <Cantidad>35035</Cantidad>
+  </Moneda>
+  <Moneda xsi:type="Euro">
+    <Codigo>EUR</Codigo>
+    <Simbolo>€</Simbolo>
+    <Cantidad>40</Cantidad>
+  </Moneda>
+</ArrayOfMoneda>

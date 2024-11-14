@@ -1,0 +1,30 @@
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.deps.json
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Entidades.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Entidades.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoP.71431A72.Up2Date
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\refint\SegundoParcialBilleteraVirtual.Datos.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\ref\SegundoParcialBilleteraVirtual.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.deps.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\bin\Debug\net8.0\SegundoParcialBilleteraVirtual.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.csproj.AssemblyReference.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.AssemblyInfoInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.AssemblyInfo.cs
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.csproj.CoreCompileInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoP.71431A72.Up2Date
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\refint\SegundoParcialBilleteraVirtual.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\SegundoParcialBilleteraVirtual.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Datos\obj\Debug\net8.0\ref\SegundoParcialBilleteraVirtual.Datos.dll

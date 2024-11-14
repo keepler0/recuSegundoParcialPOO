@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.datos\\serializadorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|solutionrelative:segundoparcialbilleteravirtual.datos\\serializadorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.entidades\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|solutionrelative:segundoparcialbilleteravirtual.entidades\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.datos\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|solutionrelative:segundoparcialbilleteravirtual.datos\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\helpers\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\helpers\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmbilleteravirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmbilleteravirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmdeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmdeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.datos\\billetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D7F8EC-C158-45AD-915A-A3F53F7D2A36}|SegundoParcialBilleteraVirtual.Datos\\SegundoParcialBilleteraVirtual.Datos.csproj|solutionrelative:segundoparcialbilleteravirtual.datos\\billetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmdeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmdeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmcomprardivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmcomprardivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.entidades\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|solutionrelative:segundoparcialbilleteravirtual.entidades\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.entidades\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|solutionrelative:segundoparcialbilleteravirtual.entidades\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.entidades\\yuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAC3CC2-3F79-4502-84B8-36DBC2ADFED5}|SegundoParcialBilleteraVirtual.Entidades\\SegundoParcialBilleteraVirtual.Entidades.csproj|solutionrelative:segundoparcialbilleteravirtual.entidades\\yuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmcomprardivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmcomprardivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmbilleteravirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmbilleteravirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\segundoparcialbilleteravirtual.windows\\frmpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|c:\\users\\diego\\desktop\\segundoparcialbilleteravirtual - alumnos\\segundoparcialbilleteravirtual.windows\\segundoparcialbilleteravirtual.windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{433EE7B2-156B-4DC8-9BE3-8F88D5352D88}|SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj|solutionrelative:segundoparcialbilleteravirtual.windows\\segundoparcialbilleteravirtual.windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridHelper.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\Helpers\\GridHelper.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\Helpers\\GridHelper.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\Helpers\\GridHelper.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\Helpers\\GridHelper.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:45:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\IArchivo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Datos\\IArchivo.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\IArchivo.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Datos\\IArchivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:35:02.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializadorXml.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\SerializadorXml.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Datos\\SerializadorXml.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\SerializadorXml.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Datos\\SerializadorXml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:32:28.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Moneda.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Entidades\\Moneda.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Moneda.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Entidades\\Moneda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:51:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Yuan.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Yuan.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Entidades\\Yuan.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Yuan.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Entidades\\Yuan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:50:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Euro.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Euro.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Entidades\\Euro.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Euro.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Entidades\\Euro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:50:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dolar.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Dolar.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Entidades\\Dolar.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Entidades\\Dolar.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Entidades\\Dolar.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:12.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billetera.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\Billetera.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Datos\\Billetera.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Datos\\Billetera.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Datos\\Billetera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:45:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDeposito.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:18:25.104Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDeposito.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmDeposito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:26:52.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMovimientos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T00:37:26.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmMovimientos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T00:45:21.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:25:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmPagar.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmPagar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:46:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRetiro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:24:02.753Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmRetiro.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmRetiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:15:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmComprarDivisas.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:19:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmComprarDivisas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmComprarDivisas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:30:36.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBilleteraVirtual.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:23:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmBilleteraVirtual.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\frmBilleteraVirtual.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:47:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SegundoParcialBilleteraVirtual.Windows.csproj",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj",
+              "RelativeDocumentMoniker": "SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\SegundoParcialBilleteraVirtual - Alumnos\\SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj",
+              "RelativeToolTip": "SegundoParcialBilleteraVirtual.Windows\\SegundoParcialBilleteraVirtual.Windows.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T17:22:12.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

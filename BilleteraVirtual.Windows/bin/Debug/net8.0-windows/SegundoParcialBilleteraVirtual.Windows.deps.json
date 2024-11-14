@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SegundoParcialBilleteraVirtual.Windows/1.0.0": {
+        "dependencies": {
+          "SegundoParcialBilleteraVirtual.Datos": "1.0.0",
+          "SegundoParcialBilleteraVirtual.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "SegundoParcialBilleteraVirtual.Windows.dll": {}
+        }
+      },
+      "SegundoParcialBilleteraVirtual.Datos/1.0.0": {
+        "dependencies": {
+          "SegundoParcialBilleteraVirtual.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "SegundoParcialBilleteraVirtual.Datos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SegundoParcialBilleteraVirtual.Entidades/1.0.0": {
+        "runtime": {
+          "SegundoParcialBilleteraVirtual.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SegundoParcialBilleteraVirtual.Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SegundoParcialBilleteraVirtual.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SegundoParcialBilleteraVirtual.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

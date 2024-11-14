@@ -1,0 +1,79 @@
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.exe
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.deps.json
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.runtimeconfig.json
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmBilleteraVirtual.resources
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmComprarDivisas.resources
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmDeposito.resources
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmPagar.resources
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmRetiro.resources
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\refint\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\ref\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.dll
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.pdb
+C:\Users\Usuario\source\repos\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoP.3E80E53F.Up2Date
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.exe
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.deps.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.runtimeconfig.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.AssemblyReference.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmBilleteraVirtual.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmComprarDivisas.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmDeposito.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmPagar.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmRetiro.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.GenerateResource.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfoInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfo.cs
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.CoreCompileInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoP.3E80E53F.Up2Date
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\refint\SegundoParcialBilleteraVirtual.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.genruntimeconfig.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialBilleteraVirtual\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\ref\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmBilleteraVirtual.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmComprarDivisas.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmDeposito.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmMovimientos.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmPagar.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.frmRetiro.resources
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.AssemblyInfo.cs
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\refint\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.exe
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.deps.json
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.runtimeconfig.json
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.pdb
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.dll
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Datos.pdb
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\bin\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Entidades.pdb
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoP.3E80E53F.Up2Date
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\SegundoParcialBilleteraVirtual.Windows.genruntimeconfig.cache
+C:\Users\diego\Desktop\SegundoParcialBilleteraVirtual - Alumnos\SegundoParcialBilleteraVirtual.Windows\obj\Debug\net8.0-windows\ref\SegundoParcialBilleteraVirtual.Windows.dll
